@@ -1,5 +1,5 @@
 return {
-    ["rat dance"] = 78114662261380,
+    ["rat dance"] = "https://raw.githubusercontent.com/ILoveIceCream10/animations-for-stalkie-beta-remake/refs/heads/main/rat%20dance",
     ["Griddy"] = 8916572099,
     ["Sturdy"] = 137959340008695,
     ["Float"] = 12256726178,
@@ -888,3 +888,4 @@ return {
     ["Run meme"] = 12474655235,
     ["Pole dance"] = 16331781302
 }
+
